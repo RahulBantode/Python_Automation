@@ -1,0 +1,7 @@
+The directory having the application of automate the whatsapp using pywhatkit module
+by using this module we can send one random messege using the python for that purpose you need to logged in to the browser
+using whatsapp web and the fucntion having three parameter as messege which you want to send mobile no with country code and time on what time you want to send
+20 to 30 seconds after the running it takes to connect with whatsapp.web and messege is delivered as you specified time and to the mobile number with specified 
+country code.
+And some files which automate the youtube by using python file you send the keyword for searching of video and then it search for that video and play it.
+and some file which search the contents on goole.
