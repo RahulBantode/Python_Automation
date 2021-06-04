@@ -1,0 +1,35 @@
+---Directory/File traversal---
+---Usage and command line input to the program---
+
+  File path should be absoulute 
+  without arguments - <executable>
+  Traverse  - <executable> <absoulute path name>
+  File size - <executable> <absoulute path name> <-s>
+  Find File - <executable> <absoulute path name> <-f> <file substring>
+  File size greater than - <executable> <absoulute path name> <-s> <size_of_file in byte>
+
+Searched file with given extension/substring =  .txt
+	file-1-Copy.txt
+	file-2 - Copy (2).txt
+	Hello-file-1.txt
+	duplicate_file_log-Mon_May_17_12-33-18_2021.txt
+	duplicate_file_log-Mon_May_17_12-37-36_2021.txt
+	duplicate_file_log-Mon_May_17_17-47-14_2021.txt
+	duplicate_file_log-Mon_May_17_18-13-16_2021.txt
+	duplicate_file_log-Mon_May_17_18-13-44_2021.txt
+	duplicate_file_log-Mon_May_17_18-17-51_2021.txt
+	duplicate_file_log-Mon_May_17_18-20-27_2021.txt
+	duplicate_file_log-Mon_May_17_18-22-40_2021.txt
+	duplicate_file_log-Mon_May_17_18-29-42_2021.txt
+	duplicate_file_log-Mon_May_17_18-34-01_2021.txt
+	duplicate_file_log-Mon_May_17_18-40-22_2021.txt
+	duplicate_file_log-Mon_May_17_18-48-01_2021.txt
+	_filelog-Mon_May_17_18-56-24_2021.txt
+	_filelog-Mon_May_17_18-59-56_2021.txt
+	_filelog-Mon_May_17_19-02-46_2021.txt
+	_filelog-Sun_May_23_15-23-58_2021.txt
+	_filelog-Sun_May_23_15-27-33_2021.txt
+	_file_log-Mon_May_17_18-52-10_2021.txt
+	_log-Mon_May_17_18-54-12_2021.txt
+	1 - Copy.txt
+	New Text Document - Copy - Copy - Copy.txt

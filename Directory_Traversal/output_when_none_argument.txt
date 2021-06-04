@@ -1,0 +1,21 @@
+---Directory/File traversal---
+---Usage and command line input to the program---
+
+  File path should be absoulute 
+  without arguments - <executable>
+  Traverse  - <executable> <absoulute path name>
+  File size - <executable> <absoulute path name> <-s>
+  Find File - <executable> <absoulute path name> <-f> <file substring>
+  File size greater than - <executable> <absoulute path name> <-s> <size_of_file in byte>
+
+Files in the directory :  D:\Directory_traversal
+
+++ D:\Directory_traversal
+	-- __pycache__
+	** directory_traversal.py
+	** module.py
+	** output_when_none_argument.txt
+	** str.py
+	** str.py.lnk
+++ D:\Directory_traversal\__pycache__
+	** module.cpython-39.pyc

@@ -1,0 +1,17 @@
+---Directory/File traversal---
+---Usage and command line input to the program---
+
+  File path should be absoulute 
+  without arguments - <executable>
+  Traverse  - <executable> <absoulute path name>
+  File size - <executable> <absoulute path name> <-s>
+  Find File - <executable> <absoulute path name> <-f> <file substring>
+  File size greater than - <executable> <absoulute path name> <-s> <size_of_file in byte>
+  File size and extensin - <exe> <abs path name> <-s> <-f> <size> <exten/substring>
+
+  NOTE / All the file arguments should be in above format because this is command line input
+
+Files having executable = .txt size greater than = 800
+	_filelog-Mon_May_17_18-59-56_2021.txt
+	_filelog-Mon_May_17_19-02-46_2021.txt
+	_filelog-Sun_May_23_15-23-58_2021.txt

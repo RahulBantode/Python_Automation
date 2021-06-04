@@ -1,0 +1,42 @@
+---Directory/File traversal---
+---Usage and command line input to the program---
+
+  File path should be absoulute 
+  without arguments - <executable>
+  Traverse  - <executable> <absoulute path name>
+  File size - <executable> <absoulute path name> <-s>
+  Find File - <executable> <absoulute path name> <-f> <file substring>
+  File size greater than - <executable> <absoulute path name> <-s> <size_of_file in byte>
+
+File with size : 
+	script-1.py  (511) 
+	script-2.py  (839) 
+	script-3.py  (1404) 
+	script-4.py  (2159) 
+	script-5.py  (2522) 
+	script-6.py  (3774) 
+	script-7.py  (5599) 
+	file-1-Copy.txt  (15) 
+	file-2 - Copy (2).txt  (0) 
+	Hello-file-1.txt  (29) 
+	duplicate_file_log-Mon_May_17_12-33-18_2021.txt  (360) 
+	duplicate_file_log-Mon_May_17_12-37-36_2021.txt  (316) 
+	duplicate_file_log-Mon_May_17_17-47-14_2021.txt  (282) 
+	duplicate_file_log-Mon_May_17_18-13-16_2021.txt  (282) 
+	duplicate_file_log-Mon_May_17_18-13-44_2021.txt  (371) 
+	duplicate_file_log-Mon_May_17_18-17-51_2021.txt  (371) 
+	duplicate_file_log-Mon_May_17_18-20-27_2021.txt  (460) 
+	duplicate_file_log-Mon_May_17_18-22-40_2021.txt  (460) 
+	duplicate_file_log-Mon_May_17_18-29-42_2021.txt  (360) 
+	duplicate_file_log-Mon_May_17_18-34-01_2021.txt  (316) 
+	duplicate_file_log-Mon_May_17_18-40-22_2021.txt  (316) 
+	duplicate_file_log-Mon_May_17_18-48-01_2021.txt  (316) 
+	_filelog-Mon_May_17_18-56-24_2021.txt  (316) 
+	_filelog-Mon_May_17_18-59-56_2021.txt  (931) 
+	_filelog-Mon_May_17_19-02-46_2021.txt  (931) 
+	_filelog-Sun_May_23_15-23-58_2021.txt  (1296) 
+	_filelog-Sun_May_23_15-27-33_2021.txt  (360) 
+	_file_log-Mon_May_17_18-52-10_2021.txt  (316) 
+	_log-Mon_May_17_18-54-12_2021.txt  (316) 
+	1 - Copy.txt  (5) 
+	New Text Document - Copy - Copy - Copy.txt  (0) 
